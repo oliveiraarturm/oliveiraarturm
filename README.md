@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliveiraarturm
 - 👀 I’m interested in IoT, microcontrollers, electronics and electrical engeneering projects.
-- 🌱 I’m currently learning: Python, computer networking and communication protocols. 
+- 🌱 I’m currently learning: Computer architecture, SO and communication protocols. 
 - 📫 How to reach me: oliveiraarturm@hotmail.com
 
 
