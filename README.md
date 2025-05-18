@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oliveiraarturm
-- 👀 I’m interested in IoT, electronics, communication and AI
+- 👀 I’m interested in IoT, electronics, signal processing, communications and AI
 - 📫 How to reach me: oliveiraarturm@hotmail.com
 
 
